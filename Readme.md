@@ -24,6 +24,8 @@ The solution includes an interactive **Power BI Command Center** that translates
 * **Visualization:** Power BI (DAX, Interactive Dashboards), Matplotlib, Seaborn
 * **Machine Learning:** Random Forest Classifier (Ensemble Learning)
 
+![Wind Turbine Dashboard](PowerBI_Dashboard_image.png)
+
 ## 📂 Project Structure
 ```text
 ├── data/          # Raw SCADA data (Wind Speed, Power, Direction)
@@ -31,5 +33,3 @@ The solution includes an interactive **Power BI Command Center** that translates
 ├── outputs/       # Final Risk Predictions (CSV)
 ├── PowerBI/       # Interactive Dashboard (.pbix)
 └── requirements.txt
-
-![Wind Turbine Dashboard](PowerBI_Dashboard_image.png)
