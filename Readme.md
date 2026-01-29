@@ -14,6 +14,7 @@ The insights are operationalized via an interactive **Power BI Command Center**,
 
 ## 📊 Dashboard Preview
 **The "Mission Control" for Site Reliability Engineers.**
+
 ![Power BI Dashboard](PowerBI_Dashboard_image.png)
 > *The dashboard features a "Traffic Light" risk system, real-time power curve analysis, and a prioritized alert list for technicians.*
 
