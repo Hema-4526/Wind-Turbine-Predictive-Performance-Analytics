@@ -31,3 +31,5 @@ The solution includes an interactive **Power BI Command Center** that translates
 ├── outputs/       # Final Risk Predictions (CSV)
 ├── PowerBI/       # Interactive Dashboard (.pbix)
 └── requirements.txt
+
+![Wind Turbine Dashboard](PowerBI_Dashboard_image.png)
